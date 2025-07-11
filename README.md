@@ -69,7 +69,6 @@
 </div>
 
 ---
-
 ### 🏆 Activity & Achievements
 
 <div align="center">
