@@ -18,9 +18,7 @@
 - 💬 Ask me about **Full Stack Development**
 - 📫 Reach me at: **vaderaakshat0@gmail.com**
 - ⚡ Fun fact: **I’m a Bug Catcher <3**
-
 ---
-
 ### 🚀 Tech Stack
 
 <div align="center">
