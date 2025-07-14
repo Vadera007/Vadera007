@@ -73,7 +73,6 @@
 </div>
 
 ---
-
 ### 🕹 Contribution Graph
 
 <picture>
