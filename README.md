@@ -13,7 +13,6 @@
 </p>
 
 ---
-
 - 🔭 I’m currently working on **my Portfolio**
 - 💬 Ask me about **Full Stack Development**
 - 📫 Reach me at: **vaderaakshat0@gmail.com**
@@ -42,7 +41,6 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" alt="Unity" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="Figma" />
 </div>
-
 ---
 ### 🌐 Connect with me
 
@@ -55,7 +53,6 @@
   <a href="https://leetcode.com/u/CODWU0qait" target="_blank"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" /></a>
   <a href="https://auth.geeksforgeeks.org/user/vaderaaagj5" target="_blank"><img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&style=for-the-badge" /></a>
 </p>
-
 ---
 ### 📈 GitHub Stats
 
@@ -63,7 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vadera007&show_icons=true&locale=en&layout=compact" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=vadera007&show_icons=true&locale=en" height="150" />
 </div>
-
 ---
 ### 🏆 Activity & Achievements
 
