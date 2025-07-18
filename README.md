@@ -11,8 +11,7 @@
     <img src="https://img.shields.io/twitter/follow/akshatvadera?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
-
----
+------
 - 🔭 I’m currently working on **my Portfolio**
 - 💬 Ask me about **Full Stack Development**
 - 📫 Reach me at: **vaderaakshat0@gmail.com**
