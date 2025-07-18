@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vadera007&show_icons=true&locale=en&layout=compact" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=vadera007&show_icons=true&locale=en" height="150" />
 </div>
----
+--------
 ### 🏆 Activity & Achievements
 
 <div align="center">
