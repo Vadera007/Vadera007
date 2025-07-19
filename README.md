@@ -1,11 +1,9 @@
 <h1 align="center">Building for Impact, One Line of Code at a Time</h1>
 <h2 align="center">I'm Akshat Vadera</h2>
 <h3 align="center">Full Stack Developer • AI Explorer • Community Contributor from India</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vadera007&label=Profile%20views&color=0e75b6&style=flat" alt="vadera007" />
 </p>
-
 <p align="center">
   <a href="https://twitter.com/akshatvadera" target="_blank">
     <img src="https://img.shields.io/twitter/follow/akshatvadera?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
