@@ -1,5 +1,5 @@
 <h1 align="center">Building for Impact, One Line of Code at a Time</h1>
-<h2 align="center">I'm Akshat Vadera</h2>
+<h2 align="center">Akshat Vadera</h2>
 <h3 align="center">Full Stack Developer • AI Explorer • Community Contributor from India</h3>
 
 <p align="center">
