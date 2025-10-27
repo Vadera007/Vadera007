@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/akshatvadera" target="_blank">
+  <a href="https://x.com/akshat_vad88585" target="_blank">
     <img src="https://img.shields.io/twitter/follow/akshatvadera?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
