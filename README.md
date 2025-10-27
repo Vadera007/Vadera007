@@ -49,7 +49,7 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://twitter.com/akshatvadera" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://x.com/akshat_vad88585" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/akshatvadera" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" /></a>
   <a href="https://instagram.com/_akshat.vadera_" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.codechef.com/users/akshat_vadera" target="_blank"><img src="https://img.shields.io/static/v1?message=Codechef&logo=codechef&label=&color=5B4638&logoColor=white&style=for-the-badge" /></a>
